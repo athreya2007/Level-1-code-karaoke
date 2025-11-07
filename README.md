@@ -7,33 +7,17 @@ Guess the number game using random module find the logical error made int the gi
 
 <img width="915" height="329" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/3a9797b8-fe2d-42ef-b221-7e249c58b6cb" />
 
-# Code:
+# Corrected code:
 
 # OUTPUT:
 
 
 # Question 2:
-2. You’re designing a program for a college portal that evaluates a student’s final grade based on their marks in 3 subjects.
-Rules:
-•	If the average is 90 or above → Grade A+
-•	If the average is 75–89 → Grade A
-•	If the average is 60–74 → Grade B
-•	If the average is 40–59 → Grade C
-•	Below 40 → Fail
-The program should:
-1.	Take marks for 3 subjects from the user
-2.	Calculate the average
-3.	Print the average and the grade
-________________________________________
- Example Input / Output
-Enter mark for Subject 1: 85
-Enter mark for Subject 2: 78
-Enter mark for Subject 3: 90
-Average = 84.33
-Grade = A
+There is multiple logical errors in the given code below correct it
+
+<img width="911" height="275" alt="Screenshot (71)" src="https://github.com/user-attachments/assets/e43cb549-9a9e-431a-8835-ba4b77f9c98e" />
 
 
-
-# Code:
+# Corrected code:
 
 # OUTPUT:
