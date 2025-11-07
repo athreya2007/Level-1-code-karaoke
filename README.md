@@ -1,4 +1,5 @@
-![WhatsApp Image 2025-10-30 at 17 19 15_d2ce09d3](https://github.com/user-attachments/assets/0060828b-f7f8-4e5b-9982-ec2b764ce8e3)
+
+<img width="5400" height="2383" alt="Code Karaoke-min" src="https://github.com/user-attachments/assets/bbb847cd-008f-45e9-b90b-aaeb469c619c" />
 
 # Level-1-code-karaoke
 Level 1 questions for code karaoke event, there are 2 questions and find the error in those questions and upload in fork 
